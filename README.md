@@ -1,29 +1,15 @@
 # unit-testing-vue
 
-## Project setup
-```
-npm install
-```
+Welcome to a Vue.js project to test using Jest. I use this project to practice unit-test.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This repository is under development. 🚧
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Requirements
+Jest : use Jest framework to create unit-test.
 
-### Run your unit tests
+## Project access
+You will be able to access this project by running the following command :
 ```
 npm run test:unit
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Currently, the server is accessible from 'http://localhost:8080'.
